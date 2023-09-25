@@ -1,5 +1,12 @@
 # Astro Starter Kit: Basics
 
+A quick Traversy Media tutorial on Astro to see what it's about. Keen to build something with it.
+
+## Hosted Website
+
+Hosted on Netlify - https://astro-website-tut.netlify.app/
+
+#
 ```sh
 npm create astro@latest -- --template basics
 ```
