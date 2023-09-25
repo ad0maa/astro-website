@@ -4,9 +4,11 @@ A quick Traversy Media tutorial on Astro to see what it's about. Keen to build s
 
 ## Hosted Website
 
-Hosted on Netlify - https://astro-website-tut.netlify.app/
+[Hosted on Netlify](https://astro-website-tut.netlify.app/)
 
-#
+--- 
+
+## 🚀 Quick start
 ```sh
 npm create astro@latest -- --template basics
 ```
